@@ -1,0 +1,8 @@
+__pychache__/
+test/__pychache__/
+algorithm/__pychache__/
+.pytest_cache/
+htmlcov/
+.idea/
+.coverage
+log.txt
