@@ -1,5 +1,7 @@
+from guiFolder.gui import gui
+
 def main():
-    print("ProjectSnailMail")
+    gui.start()
     return True
 
 if __name__ == "__main__":
